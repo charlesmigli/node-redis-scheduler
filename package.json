@@ -1,0 +1,23 @@
+{
+  "name": "node-scheduler",
+  "version": "0.0.0",
+  "description": "'Basic scheduler which fires a new event after a given delay'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlesmigli/node-scheduler"
+  },
+  "keywords": [
+    "schedule",
+    "event",
+    "task"
+  ],
+  "author": "Charles Miglietti",
+  "license": "BSD",
+  "dependencies": {
+    "node-redis-pubsub": "~0.1.0"
+  }
+}
