@@ -1,14 +1,14 @@
 {
-  "name": "node-scheduler",
-  "version": "0.0.0",
-  "description": "'Basic scheduler which fires a new event after a given delay'",
+  "name": "node-redis-scheduler",
+  "version": "0.1.0",
+  "description": "Basic scheduler which fires a new event after a given delay. Uses Redis as pub/sub",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/charlesmigli/node-scheduler"
+    "url": "https://github.com/charlesmigli/node-redis-scheduler"
   },
   "keywords": [
     "schedule",
