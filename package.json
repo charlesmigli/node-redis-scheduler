@@ -1,6 +1,6 @@
 {
   "name": "node-redis-scheduler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Basic scheduler which fires a new event after a given delay. Uses Redis as pub/sub",
   "main": "index.js",
   "scripts": {
